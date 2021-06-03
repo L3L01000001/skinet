@@ -24,6 +24,6 @@ namespace API.Errors
             500 => "Errors are the paths to the dark side.",
             _ => null
         };
-     }
+    }
     }
 }
